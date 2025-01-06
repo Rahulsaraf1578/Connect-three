@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './level2.component.css'
 })
 export class Level2Component {
-
+  public testField="X";
 }

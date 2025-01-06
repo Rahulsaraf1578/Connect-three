@@ -1,5 +1,6 @@
 table.tiktactoe-board{
     border-collapse: collapse;
+    margin-top: 20px;
 }
 
 table.tiktactoe-board td{
